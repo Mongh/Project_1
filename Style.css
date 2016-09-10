@@ -1,0 +1,30 @@
+body{
+	font-family: Phetsarath OT;
+}
+.header{
+	background-color: black;
+	height: 100px;
+	color: #ffffff;
+}
+.header h2{
+	text-align: center;
+	line-height: 50px;
+}
+.footer{
+	background-color: black;
+	height: 100px;
+	color: #ffffff;
+}
+.ssss{
+	background-color: #e06000;
+	height: 45px;
+	font-family: Pethsarath OT;
+}
+.ssss h4{
+line-height: 50px;
+color: #ffffff;
+font-size: 16pt;
+margin-left: 20px;
+margin-right: 20px;
+font-family: Pethsarath OT;
+}
